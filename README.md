@@ -6,6 +6,9 @@
 <p>1. Phan Thị Ánh Linh</p>
 <p>1. Huỳnh Thị Kiều Mai</p>
 
+<h3> Công nghệ sử dụng</h3>
+<p> ASP.net, Winform c#, sql, vnpay, gmail</p>
+<p> html, css, js, bootstrap 4</p>
 <h3>Link demo: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm </h3>
 <h3>Tài liệu chi tiết: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm  </h3>
 

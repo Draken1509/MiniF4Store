@@ -6,8 +6,8 @@
 <p>1. Phan Thị Ánh Linh</p>
 <p>1. Huỳnh Thị Kiều Mai</p>
 
-<h1>Link demo: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm </h1>
-<h1>Tài liệu chi tiết: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm  </h1>
+<h3>Link demo: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm </h3>
+<h3>Tài liệu chi tiết: https://drive.google.com/drive/folders/1yKazD21DT6zw-_j6TwXrTXKWidjPSMJm  </h3>
 
 <h1>Các chức năng chính</h1>
 <p>1. Đăng nhập, đăng xuất, quản lý thông tin cá nhân </p>

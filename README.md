@@ -21,3 +21,33 @@
 <p>6. Hoàn trả sản phẩm </p>
 <p>7. CRUD sản phẩm </p>
 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)
+
+![image](https://github.com/user-attachments/assets/b80e4203-1472-46de-9a45-dd22e06e7ee6)
+
+![image](https://github.com/user-attachments/assets/ebd055e0-496c-46e1-a06f-1ec761854592)
+
+![image](https://github.com/user-attachments/assets/485a9775-1b6c-44a6-9be9-2c912772e465)
+
+![image](https://github.com/user-attachments/assets/9baeb938-395d-400a-bbbb-08bb1c374d00)
+
+![image](https://github.com/user-attachments/assets/3c378b1b-6383-48b5-890a-8d89ccd5210c)
+
+![image](https://github.com/user-attachments/assets/597f25e0-6cfc-4751-a011-93e10d9058e4)
+
+![image](https://github.com/user-attachments/assets/d3485112-9b6a-414f-baae-67004a94617c)
+
+![image](https://github.com/user-attachments/assets/483d7eca-e253-4598-9603-f31c53ab18f8)
+
+![image](https://github.com/user-attachments/assets/042a939c-04bb-4646-b946-a5de9c1b6e68)
+
+![image](https://github.com/user-attachments/assets/cd0ad889-59da-4eed-a6aa-e539974dc21f)
+
+![image](https://github.com/user-attachments/assets/69d23ad9-8059-4a7c-8518-e0e25f095395)
+
+![image](https://github.com/user-attachments/assets/bbe675be-8d9e-432b-bd94-c6923d8801cf)
